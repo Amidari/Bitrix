@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="161acabb-ecce-41f7-a352-50821594cc0c" name="Bitrix">
+        <fileTransfer accessType="SFTP" host="melkov.study.mcart.ru" port="7704" sshConfigId="25d32683-28c0-41ec-a3e9-15a7370a4aba" sshConfig="melkov@melkov.study.mcart.ru:7704 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

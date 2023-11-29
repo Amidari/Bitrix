@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="melkov.study.mcart.ru" id="25d32683-28c0-41ec-a3e9-15a7370a4aba" keyPath="C:\Users\Александр\.ssh\bitrix_rsa" port="7704" nameFormat="DESCRIPTIVE" username="melkov" useOpenSSHConfig="false" />
+    </configs>
+  </component>
+</project>

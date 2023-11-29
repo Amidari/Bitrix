@@ -26,7 +26,7 @@ $APPLICATION->SetTitle("Контакты");
 <h2>Email</h2>
 
 <ul> 
-  <li><a href="mailto:info@example.ru">info@example.ru</a> &mdash; общие вопросы</li>
+  <li><a href="mailto:info@example.ru">info@example.ru</a> &mdash; общие вопросы!!!!</li>
   <li><a href="mailto:sales@example.ru">sales@example.ru</a> &mdash; приобретение продукции</li>
   <li><a href="mailto:marketing@example.ru">marketing@example.ru</a> &mdash; маркетинг/мероприятия/PR</li>
 </ul>
