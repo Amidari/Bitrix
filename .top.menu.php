@@ -9,14 +9,14 @@ $aMenuLinks = Array(
 	),
 	Array(
 		"Объявления", 
-		SITE_DIR."obyavleniya/", 
+		SITE_DIR."/obyavleniya/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
 		"О сервисе", 
-		SITE_DIR."/servise/", 
+		SITE_DIR."/o-servise/", 
 		Array(), 
 		Array(), 
 		"" 
